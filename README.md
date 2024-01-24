@@ -9,7 +9,7 @@ Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformat
 
 ## My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shavronya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 `SQL, R, Python, HTML, CSS`
 
