@@ -11,11 +11,11 @@ Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shavronya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-`* SQL`
-`* R`
-`* Python (numpy, pandas)` 
-`* HTML`
-`* CSS`
+`SQL`
+`R`
+`Python (numpy, pandas)` 
+`HTML`
+`CSS`
 
 ## My Projects
 
