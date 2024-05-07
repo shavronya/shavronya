@@ -4,7 +4,6 @@
 
 Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformatics, biostatistics, and data analytics, dedicated to creating innovative and effective solutions for complex problems.
 
-- 🔭 I’m currently working on a microbiome database and a Django app.
 - 👯 I’m looking to collaborate on projects in health and ecology.
 
 ## My Skills
