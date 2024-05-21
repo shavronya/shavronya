@@ -4,8 +4,6 @@
 
 Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformatics, biostatistics, and data analytics, dedicated to creating innovative and effective solutions for complex problems.
 
-- 👯 I’m looking to collaborate on projects in health and ecology.
-
 ## My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shavronya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +18,12 @@ Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformat
 
 - [Biostatistics projects](https://github.com/shavronya/biostat2022) at Bioinformatics Institute, Russia
 - [Graduation thesis](https://github.com/flajole/TCGA_SKCM) at Bioinformatics Institute, Russia
+- [DS tasks](https://github.com/shavronya/DS_tasks) at Skillfactory, Russia
+- [DS SQL project](https://github.com/shavronya/DS_project_SQL) at Skillfactory, Russia
+- [DS python project](https://github.com/shavronya/DS_project_python) at Skillfactory, Russia
+- [DS EDA project](https://github.com/shavronya/DS_project_EDA) at Skillfactory, Russia
+- [DS ML project](https://github.com/shavronya/DS_project_ML) at Skillfactory, Russia
+- [DS ML MATH project](https://github.com/shavronya/DS_project_ML_MATH) at Skillfactory, Russia
 
 ## Connect With Me
 
