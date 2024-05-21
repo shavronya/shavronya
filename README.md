@@ -24,6 +24,7 @@ Hello, I'm Daria O. Shavronskaia! I'm passionate about data science, bioinformat
 - [DS EDA project](https://github.com/shavronya/DS_project_EDA) at Skillfactory, Russia
 - [DS ML project](https://github.com/shavronya/DS_project_ML) at Skillfactory, Russia
 - [DS ML MATH project](https://github.com/shavronya/DS_project_ML_MATH) at Skillfactory, Russia
+- [DS ML MATH project_2](https://github.com/shavronya/DS_project_ML_MATH_2) at Skillfactory, Russia
 
 ## Connect With Me
 
